@@ -1,4 +1,5 @@
 SB01 file #00
 some edit
 Sign commit:
-  CLI: ?
+  CLI: V
+  SourceTree: ?
