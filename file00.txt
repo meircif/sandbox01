@@ -3,4 +3,5 @@ some edit
 Sign commit:
   CLI: V
   SourceTree: V
-  SmartGit: ?
+  SmartGit: V
+  GitKraken: ?
